@@ -1,0 +1,2 @@
+# Added: default SQL dialect and notes
+spring.datasource.initialization-mode=never
